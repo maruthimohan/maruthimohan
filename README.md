@@ -11,7 +11,7 @@
     - <i>JavaScript (I believe one can never learn enough JavaScript)</i>
     - <i>Python (Web Apps)</i>
 - 💬 Ask me about - <i>Salesforce.com, Angular, React, C#, Python (Even though I might not know the answer, I would definitely try to get you one learning along the way)</i>
-- 📫 How to reach me: [Say Hello on <i>Twitter</i>](twitter.com/MaruthiMohanR)
+- 📫 How to reach me: [Say Hello on <i>Twitter</i>](https://www.twitter.com/MaruthiMohanR)
 - ⚡ Fun fact: I like listening to Movies!!
 <br/>
 <br/>
